@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: git | My Octopress Blog]]></title>
-  <link href="http://yoursite.com/blog/categories/git/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2013-02-19T22:41:01+08:00</updated>
-  <id>http://yoursite.com/</id>
+  <title><![CDATA[Category: git | Everpointer's Blog]]></title>
+  <link href="http://everpointer.github.com/blog/categories/git/atom.xml" rel="self"/>
+  <link href="http://everpointer.github.com/"/>
+  <updated>2013-02-19T23:34:29+08:00</updated>
+  <id>http://everpointer.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[everpointer]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[hello]]></title>
-    <link href="http://yoursite.com/blog/2013/02/19/hello/"/>
+    <link href="http://everpointer.github.com/blog/2013/02/19/hello/"/>
     <updated>2013-02-19T22:11:00+08:00</updated>
-    <id>http://yoursite.com/blog/2013/02/19/hello</id>
+    <id>http://everpointer.github.com/blog/2013/02/19/hello</id>
     <content type="html"><![CDATA[<p>Hello world!</p>
 ]]></content>
   </entry>
