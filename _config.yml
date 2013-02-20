@@ -97,3 +97,7 @@ google_analytics_tracking_id: UA-38614298-1
 
 # Facebook Like
 facebook_like: false
+
+# sina Weibo
+weibo_uid: 1706150320
+weibo_verifier: b5d94de5
