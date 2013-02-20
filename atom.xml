@@ -4,7 +4,7 @@
   <title><![CDATA[Everpointer's Blog]]></title>
   <link href="http://everpointer.github.com/atom.xml" rel="self"/>
   <link href="http://everpointer.github.com/"/>
-  <updated>2013-02-20T15:42:50+08:00</updated>
+  <updated>2013-02-20T15:46:12+08:00</updated>
   <id>http://everpointer.github.com/</id>
   <author>
     <name><![CDATA[everpointer]]></name>
@@ -142,15 +142,6 @@
 <p>2013年将会是自己和公司高速发展的一年，希望今年能过的精彩些。</p>
 
 <p>P.S. <strong>2013年2月25日</strong> 将正式启动读书计划, blog计划, 分享计划，生活习惯和团队养成计划。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[hello]]></title>
-    <link href="http://everpointer.github.com/blog/2013/02/19/hello/"/>
-    <updated>2013-02-19T22:11:00+08:00</updated>
-    <id>http://everpointer.github.com/blog/2013/02/19/hello</id>
-    <content type="html"><![CDATA[<p>Hello world!</p>
 ]]></content>
   </entry>
   
